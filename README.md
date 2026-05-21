@@ -1,0 +1,1 @@
+This software was built admitting that the desired signal is acquired in the second channel of a Rigol DS1054Z 4 Channel 50 MHz Sampling Rate, Augsburg, Germany. If needed, the app can be modified to allow a generalized signal, upon request.
